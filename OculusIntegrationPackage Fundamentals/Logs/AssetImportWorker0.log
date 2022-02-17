@@ -933,3 +933,107 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11363.805357 seconds.
+  path: Assets/Oculus/Avatar/Content/Prefabs/LocalAvatar.prefab
+  artifactKey: Guid(84c8b8609f9bb434eaf5248f17ff1293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Avatar/Content/Prefabs/LocalAvatar.prefab using Guid(84c8b8609f9bb434eaf5248f17ff1293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8fcfc0486509579b6a80023c008014') in 0.161162 seconds 
+  Import took 0.187534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3150.676404 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+  artifactKey: Guid(4470b2e79e849934cbb5781e7100483b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx using Guid(4470b2e79e849934cbb5781e7100483b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b582c22bd1223dd70940463ff89d4e3e') in 0.672099 seconds 
+  Import took 0.682361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.594495 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_Left.mat
+  artifactKey: Guid(9ec1bc286fd619a4684490e761da7545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_Left.mat using Guid(9ec1bc286fd619a4684490e761da7545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad28524ec90f1cebcab4bbbf7330728c') in 0.205510 seconds 
+  Import took 0.225752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Right.TGA
+  artifactKey: Guid(e441be63d6e5c294aae032fe28daf965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Right.TGA using Guid(e441be63d6e5c294aae032fe28daf965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925a5436ce81a0245e7e0449f71270fa') in 1.157455 seconds 
+  Import took 1.164517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Left.TGA
+  artifactKey: Guid(0368149f02b42c14095151aaff644f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Left.TGA using Guid(0368149f02b42c14095151aaff644f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c96aa82acb7baa9e7a15a16286afe6') in 0.011909 seconds 
+  Import took 0.014994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+  artifactKey: Guid(01ac879f6ce09924e9c26663f798beaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat using Guid(01ac879f6ce09924e9c26663f798beaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704f88e0766835ba37a05653bd5d8ae3') in 0.212670 seconds 
+  Import took 0.216382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_Right.mat
+  artifactKey: Guid(0cd3ed1aad0963f4a8819e086ec6909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_Right.mat using Guid(0cd3ed1aad0963f4a8819e086ec6909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4509b1e74fe272edabf9874fe1d64ba5') in 0.030233 seconds 
+  Import took 0.034209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+  artifactKey: Guid(32fbc8bcebb64584da5868aeeb086cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx using Guid(32fbc8bcebb64584da5868aeeb086cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3bc9b2a6479311997ac0026d13e4c7c') in 0.075710 seconds 
+  Import took 0.079066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+  artifactKey: Guid(47b4082d2994ed045925b7ff6c245fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx using Guid(47b4082d2994ed045925b7ff6c245fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0949631fbdd139c94b43eb978d81f833') in 0.047646 seconds 
+  Import took 0.050779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+  artifactKey: Guid(37ba10a26a648144fa2390c8adfb2c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx using Guid(37ba10a26a648144fa2390c8adfb2c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fade0179ce794e6286aae28775a341fd') in 0.073774 seconds 
+  Import took 0.076928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+  artifactKey: Guid(eacafe280fdfa6a44845c135057ae6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat using Guid(eacafe280fdfa6a44845c135057ae6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0148134431d1abff1553fcb3f1a88490') in 0.074523 seconds 
+  Import took 0.078290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Roughness.tga
+  artifactKey: Guid(561aabc57cbcf9046873810d9988f99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Roughness.tga using Guid(561aabc57cbcf9046873810d9988f99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7270115cd0792cbb99a09c1926f1a15') in 1.055295 seconds 
+  Import took 1.062398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.636304 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
+  artifactKey: Guid(e6ba3498ffa1e534b91a07264266e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab using Guid(e6ba3498ffa1e534b91a07264266e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd61cf058e857b1a6c0aa59323c64c67') in 0.151040 seconds 
+  Import took 0.156190 seconds .
+
