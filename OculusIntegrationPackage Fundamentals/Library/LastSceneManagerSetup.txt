@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Scenes/BasicTeleportationScene.unity
+- path: Assets/_Scenes/BasicGrabbingScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
