@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Scenes/BasicGrabbingScene.unity
+- path: Assets/_Scenes/BasicDistanceGrabbingScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
